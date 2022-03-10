@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+header_pages:
+- about.md
+- courses.md
+- software.md
+- internal_resources.md
